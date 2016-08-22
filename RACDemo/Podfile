@@ -1,0 +1,13 @@
+source 'https://github.com/CocoaPods/Specs.git'
+platform :ios, "8.0"
+
+target 'RACDemo' do
+
+use_frameworks!
+pod "ReactiveCocoa" ,'~> 4.0.2-alpha-1'
+pod 'Masonry'
+pod 'AFNetworking'
+pod 'MJExtension'
+pod 'SDWebImage'
+
+end
