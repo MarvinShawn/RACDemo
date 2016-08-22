@@ -1,10 +1,4 @@
-//
-//  HMNetworkSingleton.h
-//  04网络考试
-//
-//  Created by 夏以铭 on 16/6/18.
-//  Copyright © 2016年 夏以铭. All rights reserved.
-//
+
 
 #import <Foundation/Foundation.h>
 typedef void (^successBlock)(id responseBody);
